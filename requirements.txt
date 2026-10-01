@@ -1,3 +1,5 @@
+laya
+bs4
 fastapi
 uvicorn
 python-dotenv
