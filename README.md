@@ -186,7 +186,7 @@ Then start the FastAPI application:
 python laya_server.py
 ```
 
-Or run it directly using Uvicorn:
+And run using Uvicorn:
 
 ```bash
 uvicorn main:app --reload --port 8000
