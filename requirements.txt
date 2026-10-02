@@ -1,4 +1,5 @@
 laya
+laya[serve]
 bs4
 fastapi
 uvicorn
@@ -12,9 +13,5 @@ google-api-python-client
 google-auth
 google-auth-oauthlib
 
-langgraph
-langchain
-langchain-core
-langchain-groq
 
 pydantic
