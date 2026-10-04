@@ -4,6 +4,10 @@
 
 The application securely connects to a user's Gmail account, retrieves emails for a selected date, processes their content, and uses **Laya running locally** to classify each email into one of four categories.
 
+# Video
+https://github.com/user-attachments/assets/a14bcf31-c431-4ffa-8a89-28fd2d3b7923
+
+
 ### Categories
 
 * **Action Required**
